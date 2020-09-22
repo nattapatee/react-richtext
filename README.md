@@ -1,5 +1,5 @@
 # React-richtext
-
+![Image](https://www.img.in.th/images/2c8facd72ea76d953a60947b1b6a947c.png)
 
 ## Installation
 
