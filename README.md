@@ -6,6 +6,7 @@
 ```bash
   npm install @tinymce/tinymce-react
   npm install deasync
+  npm install react-html-parser
 ```
 
 ## Usage
